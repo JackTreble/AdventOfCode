@@ -18,11 +18,11 @@ object Day1 {
 
     val requiredFuel = fuelCounterUpper(inputs)
 
-    println(s"required Fuel $requiredFuel")
+    println(s"required Fuel [$requiredFuel]")
 
     val requiredCumulativeFuel = cumulativeFuelCounterUpper(inputs)
 
-    println(s"required Cumulative Fuel $requiredCumulativeFuel")
+    println(s"required Cumulative Fuel [$requiredCumulativeFuel]")
 
   }
 
